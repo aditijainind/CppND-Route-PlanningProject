@@ -1,8 +1,8 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+Finds the shortest path from source co-ordinates to destination co-ordinates and draws it on the UI. Similar to a maps/navigation app. Uses the A* algorithm behind the scenes
 
-<img src="map.png" width="600" height="450" />
+-------------------------------------------------------------------------------------------
 
 ## Cloning
 
